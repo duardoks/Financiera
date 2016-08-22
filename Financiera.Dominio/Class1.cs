@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Financiera.Dominio
-{
+{asd
     public class Class1
     {
     }
